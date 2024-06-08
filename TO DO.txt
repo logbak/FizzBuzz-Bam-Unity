@@ -1,0 +1,12 @@
+to do:
+
+-make enemy ship hazards
+	-normal hazards will just be the squares with numbers not divisible by 3 or 5
+	-overlay text ui on ships that display random divisions of 3 and 5 from 1-100
+	-for divisions of 3 & 5 make their score value 3 & 5 respectively (like with the current hazards)
+	-for divisions of 15 make their score value 15 (like with current hazards)
+	-ship hazards will also fire bullets forward at an interval that the player has to avoid
+	-add some sort of fizzy, buzzy and fizzbuzzy animation and/or sounds to indicate different point values
+
+-make end credits
+	-all assets were public domain but may still provide a source (most from opengameart.org)

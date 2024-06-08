@@ -1,0 +1,14 @@
+to do:
+
+-add a text ui element that overlays on normal hazards that displays random numbers from 1-100 excluding divisions of 3 and 5
+
+-make enemy ship hazards
+	-overlay text ui on ships that display random divisions of 3 and 5 from 1-100
+	-for divisions of 3 & 5 make their score value 3 & 5 respectively
+	-for divisions of 15 make their score value 15
+	-add some sort of fizzy, buzzy and fizzbuzzy animation and/or sounds to indicate different point values
+
+-make start menu
+
+-make end credits
+	-most if not all assets were public domain but might still want to credit?
